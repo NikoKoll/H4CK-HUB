@@ -107,8 +107,8 @@ echo -e "\033[47;3;35m Before using, hide your IP\033[0m"
 
 elif [[ $islem == 7 || $islem == 07 ]]; then
 clear
-echo "Youtube Video: https://www.youtube.com/watch?v=zgdq6ErscqY"
-python3 -m webbrowser https://www.youtube.com/watch?v=zgdq6ErscqY
+echo "Github Page: https://github.com/NikoKoll/H4CK-HUB"
+python3 -m webbrowser https://github.com/NikoKoll/H4CK-HUB
 sleep 10
 echo "Wait 10 seconds"
 bash alhack.sh
