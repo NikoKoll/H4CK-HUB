@@ -57,7 +57,7 @@ Performs DDoS attacks on a target IP or domain.
 Provides a YouTube video tutorial for guidance.
 
 ### 8. Uninstall Downloaded Programs
-Removes all tools downloaded by ALHack.
+Removes all tools downloaded by H4CK-HUB.
 
 ### 9. Ip Info (Track-IP)
 Tracks and provides information about an IP address.
