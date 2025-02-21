@@ -94,8 +94,6 @@ Provides detailed descriptions of each tool and its purpose.
 
 ---
 
-Based of the alhack tool https://github.com/4lbH4cker/ALHacking/blob/main/alhack.sh
-
 ## Legal Disclaimer
 
 This tool is intended for educational and ethical purposes only. Unauthorized use of this tool for malicious activities is strictly prohibited. The developer is not responsible for any misuse or damage caused by this tool. Always ensure you have proper authorization before using any of the tools provided.
