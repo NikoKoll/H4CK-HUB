@@ -111,7 +111,7 @@ echo "Github Page: https://github.com/NikoKoll/H4CK-HUB"
 python3 -m webbrowser https://github.com/NikoKoll/H4CK-HUB
 sleep 10
 echo "Wait 10 seconds"
-bash alhack.sh
+bash h4ck_hub.sh
 
  
 elif [[ $islem == 8 || $islem == 08 ]]; then
